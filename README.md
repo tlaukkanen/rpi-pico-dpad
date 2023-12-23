@@ -2,7 +2,7 @@
 
 This is a simple Micropython script for setting up your Raspberry Pi Pico to act as game controller. This setup uses six buttons and d-pad control.
 
-You can use for example the following wiring:
+You can use for example the following wiring. Please do note that the wiring in this schematics doesn't necessarily match the GPIO pins that are in the [main.py](main.py) script.
 
 ![](docs/Gamedore_schematics.png)
 
